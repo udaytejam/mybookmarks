@@ -153,8 +153,17 @@ nav a:hover {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.flashes ul{
+    margin: 5 5;
+    background: #D6FFA3;
+    color : #000;
+    list-style-type: none;
+    list-style: none;
+}
 
-
+article.flashes{
+    margin-bottom: 1em;
+}
 
 
 
